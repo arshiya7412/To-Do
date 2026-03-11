@@ -1,0 +1,5 @@
+{
+  "name": "Simple To-Do App",
+  "description": "A simple to-do list application to add and remove tasks.",
+  "requestFramePermissions": []
+}
