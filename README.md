@@ -22,6 +22,9 @@ A clean, responsive, and animated to-do list application built with React and Ta
 
 Follow these instructions to get a copy of the project up and running on your local machine.
 
+## Deployement Link
+
+Open[https://taskremindera.netlify.app/](https://taskremindera.netlify.app/) in your browser
 ### Prerequisites
 
 - [Node.js](https://nodejs.org/) (v18 or higher recommended)
